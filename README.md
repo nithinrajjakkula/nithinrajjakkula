@@ -4,14 +4,12 @@
 </p>
 
 <!-- Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-</p>
 <h1 align="center">👋 JAKKULA NITHIN RAJ</h1>
-## 👨‍💻 About Me
-🎓 **Computer Science Engineer (Cyber Security) – 2025 Graduate**  
-💻 **Aspiring Software Engineer | Backend & Enterprise Applications**  
-🏢 **Targeting IBM & Global MNC Entry-Level Roles**
+<h3 align="center">Software Engineer | Java | Python | Backend | IBM Aspirant</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Backend+Developer;Problem+Solver;Cyber+Security+%26+ML+Enthusiast;Building+Secure+and+Scalable+Software+🚀" />
+</p>
 
 ✨ Passionate about **problem-solving, backend systems, and secure software**  
 ✨ Believe in **continuous learning, clean code, and real-world impact**
