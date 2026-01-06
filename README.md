@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 </p>
-
+<h1 align="center">👋 JAKKULA NITHIN RAJ</h1>
 ## 👨‍💻 About Me
 🎓 **Computer Science Engineer (Cyber Security) – 2025 Graduate**  
 💻 **Aspiring Software Engineer | Backend & Enterprise Applications**  
