@@ -1,10 +1,10 @@
-<!-- Animated Typing Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=900&color=00E5FF&center=true&vCenter=true&width=950&lines=Hi+👋+I'm+Nithin+Raj;Software+Engineer+in+the+Making;Java+%7C+Python+%7C+Backend+Development;IBM+Aspirant+%7C+Problem+Solver;Building+Secure+and+Scalable+Software+🚀" />
-</p>
 
 <!-- Divider -->
 <h1 align="center">👋 JAKKULA NITHIN RAJ</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
+
 <h3 align="center">Software Engineer | Java | Python | Backend | IBM Aspirant</h3>
 
 <p align="center">
